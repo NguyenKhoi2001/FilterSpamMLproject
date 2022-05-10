@@ -1,0 +1,6 @@
+Video:
+https://drive.google.com/file/d/1ikiaAEyWwK_iiOXswUusi4DltczNV3s-/view?usp=sharing
+Question 1 Colab (Using Alcohol_Sales.csv):
+https://colab.research.google.com/drive/1SV8ojyacEy3qs4X0TVgHVo-dUfX56DHy?usp=sharing
+Question 2 Colab (Using spam.csv):
+https://colab.research.google.com/drive/1Txm_O09v6ExbgGWcVGESF3SFDfFXTWKu?usp=sharing
